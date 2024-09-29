@@ -1,10 +1,11 @@
-import { createRouter, createWebHistory } from 'vue-router'
-import Themes from '../views/Themes.vue'
-import Settings from '../views/Settings.vue'
+import { createMemoryHistory, createRouter } from 'vue-router'
+
 import Prices from '../views/Prices.vue'
+import Settings from '../views/Settings.vue'
+import Themes from '../views/Themes.vue'
 
 const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+  history: createMemoryHistory(),
   routes: [
     {
       path: '/',
