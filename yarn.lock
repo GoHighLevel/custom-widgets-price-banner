@@ -581,6 +581,11 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.4.tgz#56e2cc26c397c038fab0e3a917a12d5c5909e901"
   integrity sha512-37i+OaWTh9qeK4LSHPsyRC7NahnGotNuZvjLSgcPzblpHB3rrCJxAOgI5gCdKm7coonsaX1Of0ILiTcnZjbfxA==
 
+"@types/postmate@^1.5.4":
+  version "1.5.4"
+  resolved "https://registry.yarnpkg.com/@types/postmate/-/postmate-1.5.4.tgz#ad6e354c1e364caa0f816967d0de754a43c1d3fa"
+  integrity sha512-eZBPKSmEF+0s7dL6htpj3PJdVw9rbdsUXpydGpyQ+PhRPyuTJF1XsHm2thahXIKaHQnqzG2GUaY6m9xNK0sOeA==
+
 "@types/semver@^7.5.0":
   version "7.5.6"
   resolved "https://registry.yarnpkg.com/@types/semver/-/semver-7.5.6.tgz#c65b2bfce1bec346582c07724e3f8c1017a20339"

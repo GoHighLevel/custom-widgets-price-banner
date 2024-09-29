@@ -33,6 +33,7 @@
     "@tsconfig/node18": "^18.2.2",
     "@types/lodash": "^4.14.202",
     "@types/node": "^18.19.3",
+    "@types/postmate": "^1.5.4",
     "@types/uuid": "^9.0.7",
     "@vitejs/plugin-vue": "^4.5.2",
     "@vue/eslint-config-prettier": "^8.0.0",
